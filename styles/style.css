@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  /* border: 1px sandybrown solid; */
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  padding: 0.25rem;
+  margin: 1rem auto;
+  width: 800px;
+  background: rgb(240, 240, 240);
+  border: none;
+  border-radius: 5px;
+}
+
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+  list-style-position: inside;
+}
+
+li {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  line-height: 1.2rem;
+}
+
+img {
+  display: flex;
+  width: 800px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
